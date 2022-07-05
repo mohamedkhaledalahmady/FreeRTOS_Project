@@ -1,0 +1,30 @@
+Range From 50 : 150
+Total no.of Transmitted messages are: 520
+Total no.of Blocked messages are: 468
+Total no.of Received messages are: 500
+------------------
+Range From 80 : 200
+Total no.of Transmitted messages are: 519
+Total no.of Blocked messages are: 190
+Total no.of Received messages are: 500
+------------------
+Range From 110 : 250
+Total no.of Transmitted messages are: 520
+Total no.of Blocked messages are: 38
+Total no.of Received messages are: 500
+------------------
+Range From 140 : 300
+Total no.of Transmitted messages are: 500
+Total no.of Blocked messages are: 0
+Total no.of Received messages are: 500
+------------------
+Range From 170 : 350
+Total no.of Transmitted messages are: 500
+Total no.of Blocked messages are: 0
+Total no.of Received messages are: 500
+------------------
+Range From 200 : 400
+Total no.of Transmitted messages are: 501
+Total no.of Blocked messages are: 0
+Total no.of Received messages are: 500
+------------------

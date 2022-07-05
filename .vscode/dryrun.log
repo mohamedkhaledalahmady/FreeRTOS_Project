@@ -1,0 +1,10 @@
+make.exe --dry-run --keep-going --print-directory
+make.exe: Entering directory `d:/EECE_24/Embedded/Demo/Demo'
+rename filename.txt filename_500_20_v4.txt
+rename Random_Period.txt Random_Period_500_20_v4.txt
+move filename_500_20_v4.txt D:\EECE_24\Embedded\Demo\Demo\Debug 
+move Random_Period_500_20_v4.txt D:\EECE_24\Embedded\Demo\Demo\Debug
+ 
+echo hello
+make.exe: Leaving directory `d:/EECE_24/Embedded/Demo/Demo'
+ 
