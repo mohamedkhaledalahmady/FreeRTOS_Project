@@ -15,7 +15,7 @@
 #include "diag/trace.h"
 #include <time.h>						// to get time noe for random generation numbers
 #include <math.h>						// for using any math expression
-#include "FreeRTOS.h"					// FreeRTOS library
+#include "FreeRTOS.h"						// FreeRTOS library
 #include "task.h"						// Task library
 #include "queue.h"						// queue library
 #include "timers.h"						// timer library
